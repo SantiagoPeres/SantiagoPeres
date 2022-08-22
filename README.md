@@ -1,4 +1,13 @@
-### Hi there 👋
+### Welcome to my profile :P 👋
+
+👋 Hey, I'm Santiago, I like so much lauching products and share with you to do the same. Hope you find useful my public repos about software development. Feel free to reach out!
+
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on new side projects.
+- 💬 Ask me about product management, web development (Angular, React, JavaScript, etc).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm also gym lover 💪 and chef 👨‍🍳. 
+
 
 <!--
 **SantiagoPeres/SantiagoPeres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
