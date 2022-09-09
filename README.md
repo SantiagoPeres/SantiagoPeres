@@ -23,3 +23,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Commits
+![snake gif](https://github.com/SantiagoPeres/SantiagoPeres/blob/output/github-contribution-grid-snake.gif)
