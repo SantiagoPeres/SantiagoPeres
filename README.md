@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on new side projects.
 - 💬 Ask me about product management, web development (Angular, React, JavaScript, etc).
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm also gym lover 💪 and chef 👨‍🍳. 
 
 
